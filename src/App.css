@@ -1,0 +1,45 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background: rgb(3, 238, 252);
+    background: radial-gradient(circle, rgba(3, 238, 252, 1), rgba(2, 174, 184, 1), rgba(0, 0, 0, 1));
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+form {
+    background-color: #fff;
+    padding-top: 10px;
+    padding: 10px;
+    width: 50%;
+    height: auto;
+    margin: 25%;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+
+.btn {
+    background-color: gray;
+    border-radius: 20px;
+    color: #fff;
+    padding: 2px
+}
+
+form input {
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    width: 80%;
+}
+
+.title {
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+ul {
+    font-weight: lighter;
+    text-align: left;
+}
